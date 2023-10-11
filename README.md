@@ -2,7 +2,7 @@
 
 This API was developed in Java (JDK 17) with Spring Boot (6.0.12)
 
-## Steps to run the solution
+## Set up steps
 
 1. Ensure that your computer has installed Maven and Java (JDK 17).
 2. Have IntelliJ IDEA installed to run the project.
